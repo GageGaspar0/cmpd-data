@@ -1,0 +1,110 @@
+[
+    {
+        "YEAR": "2020",
+        "LOCATION": "800 XANDER DR",
+        "STATE": "NC",
+        "ZIP": "28214",
+        "DATE_REPORTED": "2020-03-02T00:00:00Z",
+        "LOCATION_TYPE_DESCRIPTION": "Indoors",
+        "HIGHEST_NIBRS_DESCRIPTION": "Burglary/B&E"
+    },
+    {
+        "YEAR": "2020",
+        "LOCATION": "700 XANDER DR",
+        "STATE": "NC",
+        "ZIP": "28214",
+        "DATE_REPORTED": "2020-07-30T00:00:00Z",
+        "LOCATION_TYPE_DESCRIPTION": "Indoors",
+        "HIGHEST_NIBRS_DESCRIPTION": "All Other Thefts"
+    },
+    {
+        "YEAR": "2019",
+        "LOCATION": "700 XANDER DR",
+        "STATE": "NC",
+        "ZIP": null,
+        "DATE_REPORTED": "2019-12-30T00:00:00Z",
+        "LOCATION_TYPE_DESCRIPTION": "Outdoors",
+        "HIGHEST_NIBRS_DESCRIPTION": "All Other Thefts"
+    },
+    {
+        "YEAR": "2021",
+        "LOCATION": "800 XANDER DR",
+        "STATE": "NC",
+        "ZIP": "28214",
+        "DATE_REPORTED": "2021-07-09T00:00:00Z",
+        "LOCATION_TYPE_DESCRIPTION": "Outdoors",
+        "HIGHEST_NIBRS_DESCRIPTION": "Theft From Motor Vehicle"
+    },
+    {
+        "YEAR": "2020",
+        "LOCATION": "800 XANDER DR",
+        "STATE": "NC",
+        "ZIP": "28214",
+        "DATE_REPORTED": "2020-03-02T00:00:00Z",
+        "LOCATION_TYPE_DESCRIPTION": "Indoors",
+        "HIGHEST_NIBRS_DESCRIPTION": "Burglary/B&E"
+    },
+    {
+        "YEAR": "2021",
+        "LOCATION": "700 XANDER DR",
+        "STATE": "NC",
+        "ZIP": "28214",
+        "DATE_REPORTED": "2021-09-27T00:00:00Z",
+        "LOCATION_TYPE_DESCRIPTION": "Outdoors",
+        "HIGHEST_NIBRS_DESCRIPTION": "Motor Vehicle Theft"
+    },
+    {
+        "YEAR": "2019",
+        "LOCATION": "800 XANDER DR",
+        "STATE": "NC",
+        "ZIP": "28208",
+        "DATE_REPORTED": "2019-12-18T00:00:00Z",
+        "LOCATION_TYPE_DESCRIPTION": "Outdoors",
+        "HIGHEST_NIBRS_DESCRIPTION": "Theft From Building"
+    },
+    {
+        "YEAR": "2022",
+        "LOCATION": "800 XANDER DR",
+        "STATE": "NC",
+        "ZIP": "28214",
+        "DATE_REPORTED": "2022-02-06T00:00:00Z",
+        "LOCATION_TYPE_DESCRIPTION": "Indoors",
+        "HIGHEST_NIBRS_DESCRIPTION": "Other Unlisted Non-Criminal"
+    },
+    {
+        "YEAR": "2021",
+        "LOCATION": "800 XANDER DR",
+        "STATE": "NC",
+        "ZIP": "28214",
+        "DATE_REPORTED": "2021-07-09T00:00:00Z",
+        "LOCATION_TYPE_DESCRIPTION": "Outdoors",
+        "HIGHEST_NIBRS_DESCRIPTION": "Theft From Motor Vehicle"
+    },
+    {
+        "YEAR": "2023",
+        "LOCATION": "800 XANDER DR",
+        "STATE": "NC",
+        "ZIP": null,
+        "DATE_REPORTED": "2023-08-01T00:00:00Z",
+        "LOCATION_TYPE_DESCRIPTION": "Outdoors",
+        "HIGHEST_NIBRS_DESCRIPTION": "Other Unlisted Non-Criminal"
+    },
+    {
+        "YEAR": "2020",
+        "LOCATION": "800 XANDER DR",
+        "STATE": "NC",
+        "ZIP": "28214",
+        "DATE_REPORTED": "2020-10-13T00:00:00Z",
+        "LOCATION_TYPE_DESCRIPTION": "Outdoors",
+        "HIGHEST_NIBRS_DESCRIPTION": "Theft From Motor Vehicle"
+    },
+    {
+        "YEAR": "2020",
+        "LOCATION": "800 XANDER DR",
+        "STATE": "NC",
+        "ZIP": "28214",
+        "DATE_REPORTED": "2020-03-02T00:00:00Z",
+        "LOCATION_TYPE_DESCRIPTION": "Indoors",
+        "HIGHEST_NIBRS_DESCRIPTION": "Burglary/B&E"
+    }
+]
